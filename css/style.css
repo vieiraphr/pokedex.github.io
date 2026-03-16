@@ -71,7 +71,9 @@ main {
  
 }
 
-
+.input__search:hover {
+    cursor: pointer;
+}
 
 .buttons {
     position: absolute;
